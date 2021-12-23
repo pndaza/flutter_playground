@@ -11,7 +11,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   scrollable_positioned_list: ^0.2.3
   draggable_scrollbar: ^0.1.0
-  flutter_widget_from_html_core: ^0.8.3+1
+  flutter_widget_from_html_core: ^0.8.4
+  fwfh_selectable_text: ^0.8.3+1
 
 dev_dependencies:
   flutter_test:
